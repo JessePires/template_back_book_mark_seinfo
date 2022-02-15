@@ -18,11 +18,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Executando](#user-content--executando)
-   * [Tecnologias](#-tecnologias)
-   * [Como contribuir no projeto](#-como-contribuir-no-projeto)
+   * [Principais Tecnologias](#-principais-tecnologias)
    * [Autor](#-autor)
 <!--te-->
 
