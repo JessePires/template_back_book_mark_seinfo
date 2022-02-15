@@ -58,5 +58,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-jesserocha@alunos.utfpr.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jesserocha@alunos.utfpr.edu.br)](mailto:jesserocha@alunos.utfpr.edu.br)</td></table>
 
 <p align="center">
-Made with :coffee: by :copyright: Jhonatan Cunha and Jessé Pires.
+Made with :coffee: by :copyright: Jessé Pires.
 </p>
